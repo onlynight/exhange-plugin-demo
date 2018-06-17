@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="exchange-plugin-demo_main" target="1.8" />
+      <module name="exchange-plugin-demo_test" target="1.8" />
+      <module name="exhange-plugin-demo_main" target="1.8" />
+      <module name="exhange-plugin-demo_test" target="1.8" />
+      <module name="translator-plugin-ch-text-sdk_main" target="1.8" />
+      <module name="translator-plugin-ch-text-sdk_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

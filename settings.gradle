@@ -1,0 +1,3 @@
+rootProject.name = 'exchange-plugin-demo'
+include 'translator-plugin-ch-text-sdk'
+

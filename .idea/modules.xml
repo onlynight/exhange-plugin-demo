@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exchange-plugin-demo.iml" filepath="$PROJECT_DIR$/.idea/modules/exchange-plugin-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exchange-plugin-demo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/exchange-plugin-demo_main.iml" group="exchange-plugin-demo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exchange-plugin-demo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/exchange-plugin-demo_test.iml" group="exchange-plugin-demo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/translator-plugin-ch-text-sdk/translator-plugin-ch-text-sdk.iml" filepath="$PROJECT_DIR$/.idea/modules/translator-plugin-ch-text-sdk/translator-plugin-ch-text-sdk.iml" group="translator-plugin-ch-text-sdk" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/translator-plugin-ch-text-sdk/translator-plugin-ch-text-sdk_main.iml" filepath="$PROJECT_DIR$/.idea/modules/translator-plugin-ch-text-sdk/translator-plugin-ch-text-sdk_main.iml" group="translator-plugin-ch-text-sdk" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/translator-plugin-ch-text-sdk/translator-plugin-ch-text-sdk_test.iml" filepath="$PROJECT_DIR$/.idea/modules/translator-plugin-ch-text-sdk/translator-plugin-ch-text-sdk_test.iml" group="translator-plugin-ch-text-sdk" />
+    </modules>
+  </component>
+</project>
